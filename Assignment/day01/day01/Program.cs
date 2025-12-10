@@ -38,56 +38,74 @@ namespace day01
 
             public void DisplayInfo()
             {
-                Console.WriteLine($"Student Name : {_name}");
-                Console.WriteLine($"Student Age : {_age}");
-                Console.WriteLine($"Student Roll Number : {_rollNo}");
-                Console.WriteLine($"Student Course : {_course}");
+                Console.WriteLine($"Student : {_name}, Student Age : {_age}, Student Roll Number : {_rollNo}, Student Course : {_course}");
             }
         }
         static void Main(string[] args)
         {
-            Student s = new Student();
+            
             int roll = -1;
             string name;
             string course;
             int age = -1;
-            Console.WriteLine("Enter Student name :");
-            name = Console.ReadLine();
 
-            Console.WriteLine("Enter Student Roll Number :");
-            
-            try
-            {
-                int r = Convert.ToInt32( Console.ReadLine() );
-                roll = r;
-                if(roll < 0)
+            List<Student> students = new List<Student>();
+            Console.WriteLine("Enter number of student :");
+            int n = Convert.ToInt32( Console.ReadLine() );
+            for (int i = 0; i < n; i++) {
+                Console.Write("Enter Student name :");
+                name = Console.ReadLine();
+
+                Console.Write("Enter Student Roll Number :");
+
+                try
                 {
-                    throw new Exception("Invalid roll number");
+                    int r = Convert.ToInt32(Console.ReadLine());
+                    roll = r;
+                    if (roll < 0)
+                    {
+                        throw new Exception("Invalid roll number");
+                        return;
+                    }
                 }
-            }
-            catch (Exception ex) {
-                Console.WriteLine(ex.Message);
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+
+                Console.Write("Enter Student age :");
+                try
+                {
+                    int a = Convert.ToInt32(Console.ReadLine());
+                    age = a;
+                    if (age < 0 && age > 150)
+                    {
+                        throw new Exception("Invalid roll number");
+                        return;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+
+                Console.Write("Enter Student Course :");
+                course = Console.ReadLine();
+
+                Student s = new Student();
+                s.Course = course;
+                s.Age = age;
+                s.RollNum = roll;
+                s.Name = name;
+
+                students.Add(s);
             }
 
-            Console.WriteLine("Enter Student age :");
-            try
+            Console.WriteLine("Student Information : ");
+            for(int i = 0; i < n; i++)
             {
-                int a = Convert.ToInt32(Console.ReadLine());
-                age = a;
+                students[i].DisplayInfo();
             }
-            catch (Exception ex) {
-                Console.WriteLine(ex.Message);
-            }
-
-            Console.WriteLine("Enter Student Course :");
-            course = Console.ReadLine();
-
-            s.Course = course;
-            s.Age = age;
-            s.RollNum = roll;
-            s.Name = name;
-
-            s.DisplayInfo();;
         }
     }
 }

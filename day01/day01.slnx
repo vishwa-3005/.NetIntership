@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ConsoleApp0/ConsoleApp0.csproj" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="methodDemo/methodDemo.csproj" Id="52cc4fb0-4d26-49b8-bd18-300bef26fbdf" />
   <Project Path="OOP01/OOP01.csproj" Id="a4905541-d4f1-4699-afb9-c0f49aecdc4e" />
 </Solution>

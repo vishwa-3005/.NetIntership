@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\vishw\\OneDrive\\Desktop\\Internship\\.NetIntership\\Assignment\\day01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{520B63F6-09C5-4D01-82FC-05F251D6E418}|day01\\day01.csproj|c:\\users\\vishw\\onedrive\\desktop\\internship\\.netintership\\assignment\\day01\\day01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520B63F6-09C5-4D01-82FC-05F251D6E418}|day01\\day01.csproj|solutionrelative:day01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vishw\\IIT-08-C-DotNet\\Day1\\Day1\\IntershipLecture\\ClassDemo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6B6ACA-6D8F-48D5-9778-3131B732BDD2}|demo03\\demo03.csproj|c:\\users\\vishw\\onedrive\\desktop\\internship\\.netintership\\assignment\\day01\\demo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6B6ACA-6D8F-48D5-9778-3131B732BDD2}|demo03\\demo03.csproj|solutionrelative:demo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +23,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vishw\\OneDrive\\Desktop\\Internship\\.NetIntership\\Assignment\\day01\\day01\\Program.cs",
-              "RelativeDocumentMoniker": "day01\\Program.cs",
-              "ToolTip": "C:\\Users\\vishw\\OneDrive\\Desktop\\Internship\\.NetIntership\\Assignment\\day01\\day01\\Program.cs",
-              "RelativeToolTip": "day01\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwEIAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vishw\\IIT-08-C-DotNet\\Day1\\Day1\\IntershipLecture\\ClassDemo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\IIT-08-C-DotNet\\Day1\\Day1\\IntershipLecture\\ClassDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\vishw\\IIT-08-C-DotNet\\Day1\\Day1\\IntershipLecture\\ClassDemo\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\IIT-08-C-DotNet\\Day1\\Day1\\IntershipLecture\\ClassDemo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T06:54:21.638Z",
+              "WhenOpened": "2025-12-10T09:40:58.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vishw\\OneDrive\\Desktop\\Internship\\.NetIntership\\Assignment\\day01\\demo03\\Program.cs",
+              "RelativeDocumentMoniker": "demo03\\Program.cs",
+              "ToolTip": "C:\\Users\\vishw\\OneDrive\\Desktop\\Internship\\.NetIntership\\Assignment\\day01\\demo03\\Program.cs",
+              "RelativeToolTip": "demo03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:35:46.922Z",
               "EditorCaption": ""
             }
           ]
