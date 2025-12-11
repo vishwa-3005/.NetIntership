@@ -1,0 +1,15 @@
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\bin\Debug\net8.0\asso2A.exe
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\bin\Debug\net8.0\asso2A.deps.json
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\bin\Debug\net8.0\asso2A.runtimeconfig.json
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\bin\Debug\net8.0\asso2A.dll
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\bin\Debug\net8.0\asso2A.pdb
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\obj\Debug\net8.0\asso2A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\obj\Debug\net8.0\asso2A.AssemblyInfoInputs.cache
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\obj\Debug\net8.0\asso2A.AssemblyInfo.cs
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\obj\Debug\net8.0\asso2A.csproj.CoreCompileInputs.cache
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\obj\Debug\net8.0\asso2A.sourcelink.json
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\obj\Debug\net8.0\asso2A.dll
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\obj\Debug\net8.0\refint\asso2A.dll
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\obj\Debug\net8.0\asso2A.pdb
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\obj\Debug\net8.0\asso2A.genruntimeconfig.cache
+C:\Users\vishw\OneDrive\Desktop\Internship\.NetIntership\Assignment\asso2\asso2\obj\Debug\net8.0\ref\asso2A.dll
