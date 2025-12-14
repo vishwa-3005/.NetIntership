@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\.NetIntership\\day03\\EFDemo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC97D9B-CA65-4F31-BDE0-B3B147A728BC}|..\\EFDemo02\\EFDemo02.csproj|d:\\internship\\.netintership\\day03\\efdemo02\\studentconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC97D9B-CA65-4F31-BDE0-B3B147A728BC}|..\\EFDemo02\\EFDemo02.csproj|d:\\internship\\.netintership\\day03\\efdemo02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC97D9B-CA65-4F31-BDE0-B3B147A728BC}|..\\EFDemo02\\EFDemo02.csproj|d:\\internship\\.netintership\\day03\\efdemo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC97D9B-CA65-4F31-BDE0-B3B147A728BC}|..\\EFDemo02\\EFDemo02.csproj|d:\\internship\\.netintership\\day03\\efdemo02\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day03\\EFDemo02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EFDemo02\\Program.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day03\\EFDemo02\\Program.cs",
+              "RelativeToolTip": "..\\EFDemo02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T04:40:24.101Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day03\\EFDemo02\\Student.cs",
+              "RelativeDocumentMoniker": "..\\EFDemo02\\Student.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day03\\EFDemo02\\Student.cs",
+              "RelativeToolTip": "..\\EFDemo02\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T04:53:41.489Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentConext.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day03\\EFDemo02\\StudentConext.cs",
+              "RelativeDocumentMoniker": "..\\EFDemo02\\StudentConext.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day03\\EFDemo02\\StudentConext.cs",
+              "RelativeToolTip": "..\\EFDemo02\\StudentConext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T04:54:24.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day03\\EFDemo02\\Course.cs",
+              "RelativeDocumentMoniker": "..\\EFDemo02\\Course.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day03\\EFDemo02\\Course.cs",
+              "RelativeToolTip": "..\\EFDemo02\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T04:51:14.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
