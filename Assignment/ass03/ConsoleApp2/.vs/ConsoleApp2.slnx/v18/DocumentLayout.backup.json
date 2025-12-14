@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\.NetIntership\\Assignment\\ass03\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\internship\\.netintership\\assignment\\ass03\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\internship\\.netintership\\assignment\\ass03\\consoleapp2\\consoleapp2\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\internship\\.netintership\\assignment\\ass03\\consoleapp2\\consoleapp2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\internship\\.netintership\\assignment\\ass03\\consoleapp2\\consoleapp2\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\internship\\.netintership\\assignment\\ass03\\consoleapp2\\consoleapp2\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\ass03\\ConsoleApp2\\ConsoleApp2\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\EmployeeContext.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\ass03\\ConsoleApp2\\ConsoleApp2\\EmployeeContext.cs",
+              "RelativeToolTip": "ConsoleApp2\\EmployeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:39:06.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\ass03\\ConsoleApp2\\ConsoleApp2\\TaskItem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\TaskItem.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\ass03\\ConsoleApp2\\ConsoleApp2\\TaskItem.cs",
+              "RelativeToolTip": "ConsoleApp2\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:33:36.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\ass03\\ConsoleApp2\\ConsoleApp2\\Staff.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Staff.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\ass03\\ConsoleApp2\\ConsoleApp2\\Staff.cs",
+              "RelativeToolTip": "ConsoleApp2\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:33:27.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\ass03\\ConsoleApp2\\ConsoleApp2\\Manager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Manager.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\ass03\\ConsoleApp2\\ConsoleApp2\\Manager.cs",
+              "RelativeToolTip": "ConsoleApp2\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:33:02.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\ass03\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\ass03\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAQwH4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:10:48.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
