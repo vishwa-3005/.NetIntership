@@ -1,0 +1,35 @@
+﻿@model List<MVCDemo1.Models.Student>
+
+<html>
+<head>
+    <link href="d:\internship\.netintership\day04\consoleapp1\mvcdemo1\wwwroot\lib\bootstrap\dist\css\bootstrap.css" rel="stylesheet" />
+</head>
+    <body>
+        <table class="table">
+			
+       <thead>
+            <tr>
+                <th >ID</th>
+                <th >Name</th>
+                <th >Course Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.StudentName
+                    </td>
+                    <td>
+                        @item.CourseName
+                    </td>
+                    <td>
+                        @item.CourseId
+                    </td>
+                </tr>
+            }
+        </tbody>
+</table>
+    </body>
+</html>

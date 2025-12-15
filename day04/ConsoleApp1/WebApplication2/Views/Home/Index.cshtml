@@ -1,0 +1,35 @@
+﻿@model List<WebApplication2.Models.Student> 
+<html>
+	<head>
+	<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+	</head>
+	<body>
+	
+		<h1>Student List</h1>
+		<a value="Add" href="/Home/Create">Add New Student</a>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Course Name</th>
+                </tr>
+            </thead>
+            <tbody>
+		@foreach(var item in Model)
+		{
+            <tr>
+                    <th scope="row">@item.StudentId</th>
+            <td>@item.StudentName</td>
+            <td>@item.CourseName</td>
+                    <td><a href="/Home/Edit/@item.StudentId">Edit</a></td>
+                    <td><a href="/Home/Delete/@item.StudentId">Delete</a></td>
+            </tr>
+		}
+            </tbody>
+        </table>
+	</body>
+</html>
+

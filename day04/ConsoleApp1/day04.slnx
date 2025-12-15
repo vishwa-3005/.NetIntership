@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="MathsLibrary/MathsLibrary.csproj" />
+  <Project Path="MVCDemo1/MVCDemo1.csproj" />
+  <Project Path="Refelction/Refelction.csproj" />
+  <Project Path="WebApplication2/WebApplication2.csproj" />
+</Solution>

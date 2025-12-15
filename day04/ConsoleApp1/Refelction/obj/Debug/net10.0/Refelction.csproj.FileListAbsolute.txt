@@ -1,0 +1,15 @@
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\bin\Debug\net10.0\Refelction.exe
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\bin\Debug\net10.0\Refelction.deps.json
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\bin\Debug\net10.0\Refelction.runtimeconfig.json
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\bin\Debug\net10.0\Refelction.dll
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\bin\Debug\net10.0\Refelction.pdb
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\obj\Debug\net10.0\Refelction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\obj\Debug\net10.0\Refelction.AssemblyInfoInputs.cache
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\obj\Debug\net10.0\Refelction.AssemblyInfo.cs
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\obj\Debug\net10.0\Refelction.csproj.CoreCompileInputs.cache
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\obj\Debug\net10.0\Refelction.sourcelink.json
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\obj\Debug\net10.0\Refelction.dll
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\obj\Debug\net10.0\refint\Refelction.dll
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\obj\Debug\net10.0\Refelction.pdb
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\obj\Debug\net10.0\Refelction.genruntimeconfig.cache
+D:\Internship\.NetIntership\day04\ConsoleApp1\Refelction\obj\Debug\net10.0\ref\Refelction.dll

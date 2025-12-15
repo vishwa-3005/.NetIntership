@@ -1,0 +1,12 @@
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\bin\Debug\net10.0\MathsLibrary.deps.json
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\bin\Debug\net10.0\MathsLibrary.dll
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\bin\Debug\net10.0\MathsLibrary.pdb
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\obj\Debug\net10.0\MathsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\obj\Debug\net10.0\MathsLibrary.AssemblyInfoInputs.cache
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\obj\Debug\net10.0\MathsLibrary.AssemblyInfo.cs
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\obj\Debug\net10.0\MathsLibrary.csproj.CoreCompileInputs.cache
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\obj\Debug\net10.0\MathsLibrary.sourcelink.json
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\obj\Debug\net10.0\MathsLibrary.dll
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\obj\Debug\net10.0\refint\MathsLibrary.dll
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\obj\Debug\net10.0\MathsLibrary.pdb
+D:\Internship\.NetIntership\day04\ConsoleApp1\MathsLibrary\obj\Debug\net10.0\ref\MathsLibrary.dll
