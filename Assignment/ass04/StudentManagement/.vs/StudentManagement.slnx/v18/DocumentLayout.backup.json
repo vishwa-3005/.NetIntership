@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\views\\home\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\home\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\views\\home\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\home\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\views\\home\\viewcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\home\\viewcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\views\\home\\viewstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\home\\viewstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\views\\home\\createcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\home\\createcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\migrations\\20251216095153_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\migrations\\20251216095153_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|d:\\internship\\.netintership\\assignment\\day04\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097326B-CC4A-718B-FA52-46C6C54BBDB8}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewCourses.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\ViewCourses.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Home\\ViewCourses.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\ViewCourses.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Home\\ViewCourses.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T09:59:39.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T08:03:12.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T07:35:48.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Home\\EditStudent.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\EditStudent.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Home\\EditStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T09:30:07.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateStudent.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\CreateStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Home\\CreateStudent.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\CreateStudent.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Home\\CreateStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T08:04:12.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewStudents.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\ViewStudents.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Home\\ViewStudents.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\ViewStudents.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Home\\ViewStudents.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T08:18:02.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCourse.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\CreateCourse.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Home\\CreateCourse.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Views\\Home\\CreateCourse.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Home\\CreateCourse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T09:54:15.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Course.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Models\\Course.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:30:36.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\StudentContext.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Models\\StudentContext.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:31:00.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251216095153_mg1.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Migrations\\20251216095153_mg1.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Migrations\\20251216095153_mg1.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Migrations\\20251216095153_mg1.cs",
+              "RelativeToolTip": "StudentManagement\\Migrations\\20251216095153_mg1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:51:53.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Student.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:30:19.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\day04\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T08:00:17.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

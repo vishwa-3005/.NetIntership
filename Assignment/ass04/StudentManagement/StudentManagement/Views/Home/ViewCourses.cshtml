@@ -1,0 +1,35 @@
+﻿@model List<StudentManagement.Models.Course>
+
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Course ID</th>
+                <th scope="col">Course Name</th>
+                <th scope="col">Student Id</th>
+            </tr>
+        </thead>
+        <tbody class="table-group-divider">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th>@item.CourseId</th>
+                    <td>@item.CourseName</td>
+                    <td>@item.StudentId</td>
+                    <td>
+                        <a href="/Home/EditCourse/@item.CourseId" class="btn btn-success">Edit</a>
+                    </td>
+                    <td>
+                        <a href="/Home/DeleteCourse/@item.CourseId" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

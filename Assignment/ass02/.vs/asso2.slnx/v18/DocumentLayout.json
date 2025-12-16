@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vishw\\OneDrive\\Desktop\\Internship\\.NetIntership\\Assignment\\asso2\\",
+  "WorkspaceRootPath": "D:\\Internship\\.NetIntership\\Assignment\\ass02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABB5B9E8-A65C-6390-1884-EDB8F2CB103D}|asso2\\asso2A.csproj|c:\\users\\vishw\\onedrive\\desktop\\internship\\.netintership\\assignment\\asso2\\asso2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABB5B9E8-A65C-6390-1884-EDB8F2CB103D}|asso2\\asso2A.csproj|d:\\internship\\.netintership\\assignment\\ass02\\asso2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABB5B9E8-A65C-6390-1884-EDB8F2CB103D}|asso2\\asso2A.csproj|solutionrelative:asso2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5796AE8A-50BF-9C72-F77A-F47C32434C83}|ass2b\\ass2b.csproj|d:\\internship\\.netintership\\assignment\\ass02\\ass2b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5796AE8A-50BF-9C72-F77A-F47C32434C83}|ass2b\\ass2b.csproj|solutionrelative:ass2b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\ass02\\ass2b\\Program.cs",
+              "RelativeDocumentMoniker": "ass2b\\Program.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\ass02\\ass2b\\Program.cs",
+              "RelativeToolTip": "ass2b\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:41:35.006Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vishw\\OneDrive\\Desktop\\Internship\\.NetIntership\\Assignment\\asso2\\asso2\\Program.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\Assignment\\ass02\\asso2\\Program.cs",
               "RelativeDocumentMoniker": "asso2\\Program.cs",
-              "ToolTip": "C:\\Users\\vishw\\OneDrive\\Desktop\\Internship\\.NetIntership\\Assignment\\asso2\\asso2\\Program.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\Assignment\\ass02\\asso2\\Program.cs",
               "RelativeToolTip": "asso2\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T10:28:21.529Z",
               "EditorCaption": ""

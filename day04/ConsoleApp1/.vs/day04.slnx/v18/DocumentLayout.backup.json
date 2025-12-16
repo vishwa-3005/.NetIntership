@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\internship\\.netintership\\day04\\consoleapp1\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\internship\\.netintership\\day04\\consoleapp1\\webapplication2\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\internship\\.netintership\\day04\\consoleapp1\\webapplication2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\internship\\.netintership\\day04\\consoleapp1\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\internship\\.netintership\\day04\\consoleapp1\\webapplication2\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\internship\\.netintership\\day04\\consoleapp1\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\internship\\.netintership\\day04\\consoleapp1\\webapplication2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\internship\\.netintership\\day04\\consoleapp1\\webapplication2\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\internship\\.netintership\\day04\\consoleapp1\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\internship\\.netintership\\day04\\consoleapp1\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,21 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-15T18:06:28.857Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -69,14 +56,14 @@
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T16:21:42.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Models\\ErrorViewModel.cs",
@@ -84,86 +71,94 @@
               "RelativeToolTip": "WebApplication2\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T18:06:15.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T18:06:15.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Create.cshtml",
               "ToolTip": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-15T17:46:16.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Edit.cshtml",
               "ToolTip": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Views\\Home\\Edit.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-15T17:24:44.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Models\\Student.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Models\\Student.cs",
               "ToolTip": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Models\\Student.cs",
               "RelativeToolTip": "WebApplication2\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T16:04:32.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T16:04:32.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-15T08:16:27.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "StudentContext.cs",
               "DocumentMoniker": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Models\\StudentContext.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Models\\StudentContext.cs",
               "ToolTip": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Models\\StudentContext.cs",
               "RelativeToolTip": "WebApplication2\\Models\\StudentContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T16:20:34.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T16:20:34.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
               "ToolTip": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Program.cs",
               "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T16:20:44.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T16:20:44.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day04\\ConsoleApp1\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T18:06:28.857Z"
             }
           ]
         }
