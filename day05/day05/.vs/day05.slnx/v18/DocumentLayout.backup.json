@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\.NetIntership\\day05\\day05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\scalfolddemo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\scalfolddemo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\migrations\\20251218043048_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\migrations\\20251218043048_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\migrations\\20251217055523_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\migrations\\20251217055523_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|d:\\internship\\.netintership\\day05\\day05\\scalfolddemo1\\models\\sbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D72746-6CC0-0341-F1B0-9DF0A6C31D05}|ScalFoldDemo1\\ScalFoldDemo1.csproj|solutionrelative:scalfolddemo1\\models\\sbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251218043048_mg1.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Migrations\\20251218043048_mg1.cs",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Migrations\\20251218043048_mg1.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Migrations\\20251218043048_mg1.cs",
+              "RelativeToolTip": "ScalFoldDemo1\\Migrations\\20251218043048_mg1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:30:48.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "ScalFoldDemo1\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T06:44:15.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ScalFoldDemo1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:03:09.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Models\\Student.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Models\\Student.cs",
+              "RelativeToolTip": "ScalFoldDemo1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T05:40:47.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScalFoldDemo1.csproj",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\ScalFoldDemo1.csproj",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\ScalFoldDemo1.csproj",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\ScalFoldDemo1.csproj",
+              "RelativeToolTip": "ScalFoldDemo1\\ScalFoldDemo1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T05:49:39.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Models\\Course.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Models\\Course.cs",
+              "RelativeToolTip": "ScalFoldDemo1\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T05:41:21.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "ScalFoldDemo1\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T03:27:15.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ScalFoldDemo1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:05:48.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "ScalFoldDemo1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T06:03:39.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Program.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Program.cs",
+              "RelativeToolTip": "ScalFoldDemo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:16:05.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ScalFoldDemo1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T03:10:52.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251217055523_mg.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Migrations\\20251217055523_mg.cs",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Migrations\\20251217055523_mg.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Migrations\\20251217055523_mg.cs",
+              "RelativeToolTip": "ScalFoldDemo1\\Migrations\\20251217055523_mg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T05:55:24.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SbContext.cs",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Models\\SbContext.cs",
+              "RelativeDocumentMoniker": "ScalFoldDemo1\\Models\\SbContext.cs",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day05\\day05\\ScalFoldDemo1\\Models\\SbContext.cs",
+              "RelativeToolTip": "ScalFoldDemo1\\Models\\SbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T05:41:47.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

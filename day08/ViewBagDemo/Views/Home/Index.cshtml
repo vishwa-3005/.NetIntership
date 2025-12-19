@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="text-center">
+    <h1 class="display-4">
+        @{
+            @if(ViewData["msg"] != null){
+                <p>@ViewData["msg"] @ViewData["Count"]</p>
+            }
+            // int res = ViewBag.Count + ViewData["Count"]; will give error 
+            int res = ViewBag.Count + (int)ViewData["Count"];
+            <h1>@res</h1>
+            
+        }
+    </h1>
+</div>
