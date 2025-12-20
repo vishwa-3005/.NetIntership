@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "IndentityDemo\\Migrations\\20251219140441_mg.cs",
               "ToolTip": "D:\\Internship\\.NetIntership\\day08\\IndentityDemo\\Migrations\\20251219140441_mg.cs",
               "RelativeToolTip": "IndentityDemo\\Migrations\\20251219140441_mg.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-19T14:04:42.392Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "IndentityDemo\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T14:02:36.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T14:02:36.47Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "IndentityDemo\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T14:02:35.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T14:02:35.129Z"
             },
             {
               "$type": "Document",
@@ -105,21 +103,7 @@
               "RelativeToolTip": "IndentityDemo\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T14:02:13.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day08\\IndentityDemo\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "IndentityDemo\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Internship\\.NetIntership\\day08\\IndentityDemo\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "IndentityDemo\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-19T13:59:24.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T14:02:13.453Z"
             },
             {
               "$type": "Document",
@@ -131,8 +115,7 @@
               "RelativeToolTip": "IndentityDemo\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T13:50:48.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T13:50:48.097Z"
             },
             {
               "$type": "Document",
@@ -144,12 +127,19 @@
               "RelativeToolTip": "IndentityDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T13:34:11.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T13:34:11.285Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\.NetIntership\\day08\\IndentityDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IndentityDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\.NetIntership\\day08\\IndentityDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IndentityDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T13:59:24.135Z"
             },
             {
               "$type": "Document",
@@ -161,8 +151,7 @@
               "RelativeToolTip": "IndentityDemo\\Controllers\\AdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T13:54:25.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T13:54:25.008Z"
             },
             {
               "$type": "Document",
@@ -174,8 +163,7 @@
               "RelativeToolTip": "IndentityDemo\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-19T13:54:12.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T13:54:12.444Z"
             },
             {
               "$type": "Document",
@@ -187,8 +175,7 @@
               "RelativeToolTip": "IndentityDemo\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T13:53:08.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T13:53:08.138Z"
             },
             {
               "$type": "Document",
@@ -200,8 +187,15 @@
               "RelativeToolTip": "IndentityDemo\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T13:37:20.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T13:37:20.381Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
